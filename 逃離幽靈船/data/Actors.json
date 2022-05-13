@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"SF_Actor1_5","characterIndex":4,"characterName":"SF_Actor1","classId":5,"equips":[0,0,48,3,80],"faceIndex":4,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"阿淇","nickname":"阿淇","note":"","profile":""},
+{"id":2,"battlerName":"SF_Actor2_4","characterIndex":3,"characterName":"SF_Actor2","classId":7,"equips":[0,0,50,2,80],"faceIndex":3,"faceName":"SF_Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"郭佳倩","nickname":"倩倩","note":"","profile":""},
+{"id":3,"battlerName":"SF_Actor1_7","characterIndex":6,"characterName":"SF_Actor1","classId":8,"equips":[0,0,50,2,100],"faceIndex":6,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"阿凌","nickname":"阿凌","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"SF_Actor3","classId":3,"equips":[0,0,67,21,89],"faceIndex":1,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"林鳳","nickname":"牛奶媽媽","note":"","profile":""},
+{"id":5,"battlerName":"SF_Actor1_3","characterIndex":2,"characterName":"SF_Actor1","classId":4,"equips":[1,0,47,0,0],"faceIndex":2,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"墨孟洋","nickname":"孟哥","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"迷失的小孩","nickname":"迷失的小孩","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":2,"characterName":"People2","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"即將迷失的小孩-小衛","nickname":"即將迷失的小孩","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"SF_People1","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SF_People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"即將迷失的小孩-沃爾","nickname":"即將迷失的小孩","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":1,"characterName":"People1","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"即將迷失的小孩-可可","nickname":"即將迷失的小孩","note":"","profile":""}
+]
